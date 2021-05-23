@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jangsung park\\Desktop\\learn_kotlin\\AndroidStudioProjects\\ch3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko-rKR\\values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jangsung park\\Desktop\\learn_kotlin\\AndroidStudioProjects\\ch3\\app\\src\\main\\res\\values-ko-rKR\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "104,-1",
+                        "endColumns": "45,-1",
+                        "endOffsets": "145,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,45",
+                        "endOffsets": "96,142"
+                    }
+                }
+            ]
+        }
+    ]
+}
