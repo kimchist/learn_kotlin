@@ -30,12 +30,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d768847-bc06-4aa9-a909-716db167cdca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ch9/PhotoFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/MyPagerAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_photo1.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d768847-bc06-4aa9-a909-716db167cdca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +152,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="90" key="#Intentions" timestamp="1624363887995">
