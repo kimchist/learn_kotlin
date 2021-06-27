@@ -17,11 +17,7 @@ to ~
 <br/><br/>
 <br/><br/>
 
-### 배우는 이유
- 
-1. 찍먹의 이유
-2. 구현하고 싶은 앱이 있음
-   * 그것은 바로 gps상의 속도에 따라 4기통의 배기음을 들려주는 어플! (실용성은 없으나 창의성은 not bad이지 않은가?)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -29,4 +25,3 @@ to ~
 ![workflow](https://user-images.githubusercontent.com/77620538/118699757-dfff2e00-b84c-11eb-8749-57b2b0bc1f62.png)
 
 
-## 開始だぜ~!
